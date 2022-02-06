@@ -81,9 +81,9 @@ public class Jsouprun {
 			}
 		}
 		System.out.println("Versão HTML: "+ htmlVersion);
-		System.out.println("Titulo: "+title.text());
-		System.out.println("linkExterno: "+linkExterno);
-		System.out.println("linkInterno: "+linkInterno);
+		System.out.println("Título: "+title.text());
+		System.out.println("Link Externo: "+linkExterno);
+		System.out.println("Link Interno: "+linkInterno);
 		
 	}
 	
